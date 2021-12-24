@@ -16,13 +16,13 @@
 ![image](https://user-images.githubusercontent.com/72446237/147344438-abf42684-0752-4b26-8fa0-47c11466e7e6.png)
 
 * We will define a new class called pathit  in order to allow the path class to be Iterable,
-meaning that it will be possible to scan The same with the for loop. 
+meaning that it will be possible to scan the path class with  for loop. 
 * In each iteration in the loop the next point in the path will be returned.
 
 ![image](https://user-images.githubusercontent.com/72446237/147345347-0d0a34aa-6b7f-4a85-8ff2-7cbbd2e97602.png)
 
-* The main function will serve as the primary function for the program. This function will be activated only if
-* The program is run as a standalone program and is not imported as a package to another program
+* The main function will serve as the primary function for the program. 
+* This function will be activated only if the program is run as a standalone program and is not imported as a package to another program
 
 ![image](https://user-images.githubusercontent.com/72446237/147345459-39443389-61de-4551-a87d-e8d8f75da31e.png)
 
