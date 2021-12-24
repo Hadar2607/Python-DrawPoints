@@ -1,7 +1,10 @@
-# Draw Points Project. 
+# Draw points project.
 
 ## The Purpose of the project is to draw a path consisting of points (x, y)
 
+### The work was done as part of the academic studies
+
+#### Project description:
 
 * The Point class represents a point on a plane.
 
